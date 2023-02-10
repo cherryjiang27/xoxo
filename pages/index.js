@@ -89,8 +89,29 @@ export default function Home() {
                     <p>
                       I love my cat.
                     </p>
-                  </div>
+                    <p>
+                      Loving you is like a blessing,
+                      My furry friend, sweet Truffle.
 
+Your eyes, so deep and blue,
+Your purr, so gentle and true.
+
+Your whiskers, so soft and strong,
+Your meow, so sweet and long.
+
+Your fur, so fluffy and warm,
+Your cuddles, so sweet and calm.
+
+Your paws, so tiny and cute,
+Your love, so sincere and absolute.
+
+Your heart, so full of joy,
+Your purr, my favorite sound and toy.
+
+Your personality, so kind and true,
+My love for you, forever strong and true.
+                    </p>
+                  </div>
                   <div className="mt-8 flow-root max-w-2xl m-auto">
                     <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
                       <div className="bg-white rounded-md shadow-2xl ring-1 ring-gray-900/10">
