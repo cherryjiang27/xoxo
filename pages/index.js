@@ -87,13 +87,13 @@ export default function Home() {
                   </div>
                   <div>
                     <h2>
-                      I love my cat.
+                      Ode to Truffle
                     </h2>
                     <p>
                     Oh sweet Truffle, my love for you is true
                     Your eyes so green, your fur so soft and white and gray
                     The way you purr and rub my legs when I come home every day
-    
+
                     You are my fur baby, and my heart you do sway
 
                     On Valentine's Day, I want to tell you what I feel
