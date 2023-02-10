@@ -97,16 +97,16 @@ export default function Home() {
                     You are my fur baby, and my heart you do sway <br></br>
 
                     On Valentine's Day, I want to tell you what I feel <br></br>
-                    Your love for me is so real
+                    Your love for me is so real,<br></br>
 
-                    Your cuddles, your spirit and your meow
-                    All so sweet, I can't help but love you so
+                    Your cuddles, your spirit and your meow <br></br>
+                    All so sweet, I can't help but love you so <br></br>
 
-                    On this special day, I want you to know
-                    My love for you will never go
+                    On this special day, I want you to know <br></br>
+                    My love for you will never go <br></br>
 
-                    Happy Valentine's Day my sweet Truffle
-                    You are my world, my heart, and my bundle
+                    Happy Valentine's Day my sweet Truffle <br></br>
+                    You are my world, my heart, and my bundle <br></br>
                     </p>
                   </div>
                   <div className="mt-8 flow-root max-w-2xl m-auto">
