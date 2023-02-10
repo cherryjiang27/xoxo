@@ -85,6 +85,11 @@ export default function Home() {
                       <img src="../truffle.png" width="100px" />
                     </div>
                   </div>
+                  <div>
+                    <p>
+                      I love my cat.
+                    </p>
+                  </div>
 
                   <div className="mt-8 flow-root max-w-2xl m-auto">
                     <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
