@@ -90,10 +90,10 @@ export default function Home() {
                       I love my cat.
                     </h2>
                     <p>
-                      Loving you is like a blessing, <br>
-                      My furry friend, sweet Truffle. <br>
+                      <br>Loving you is like a blessing, </br>
+                      <br> My furry friend, sweet Truffle. </br>
 
-                      Your eyes, so deep and blue,
+                      <br>Your eyes, so deep and green,
                       Your purr, so gentle and true.
 
 Your whiskers, so soft and strong,
