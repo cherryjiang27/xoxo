@@ -90,26 +90,23 @@ export default function Home() {
                       I love my cat.
                     </h2>
                     <p>
-                      <br>Loving you is like a blessing, </br>
-                      <br> My furry friend, sweet Truffle. </br>
+                    Oh sweet Truffle, my love for you is true
+                    Your eyes so green, your fur so soft and white and gray
+                    The way you purr and rub my legs when I come home every day
+    
+                    You are my fur baby, and my heart you do sway
 
-                      <br>Your eyes, so deep and green,
-                      Your purr, so gentle and true.
+                    On Valentine's Day, I want to tell you what I feel
+                    Your love for me is so real
 
-Your whiskers, so soft and strong,
-Your meow, so sweet and long.
+                    Your cuddles, your spirit and your meow
+                    All so sweet, I can't help but love you so
 
-Your fur, so fluffy and warm,
-Your cuddles, so sweet and calm.
+                    On this special day, I want you to know
+                    My love for you will never go
 
-Your paws, so tiny and cute,
-Your love, so sincere and absolute.
-
-Your heart, so full of joy,
-Your purr, my favorite sound and toy.
-
-Your personality, so kind and true,
-My love for you, forever strong and true.
+                    Happy Valentine's Day my sweet Truffle
+                    You are my world, my heart, and my bundle
                     </p>
                   </div>
                   <div className="mt-8 flow-root max-w-2xl m-auto">
