@@ -90,7 +90,7 @@ export default function Home() {
                       Ode to Truffle
                     </h2>
                     <p>
-                    Oh sweet Truffle, my love for you is true
+                    Oh sweet Truffle, my love for you is true <br></br>
                     Your eyes so green, your fur so soft and white and gray
                     The way you purr and rub my legs when I come home every day
 
