@@ -64,7 +64,7 @@ export default function Home() {
             <div className="relative py-24 sm:py-32 lg:pb-40">
               <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 <div className="mx-auto max-w-2xl">
-                  <h1 className="text-4xl font-bold tracking-tight bg-gradient-to-r from-purple-400 to-pink-600 sm:text-6xl">
+                  <h1 className="text-4xl font-bold tracking-tight from-purple-400 to-pink-600 sm:text-6xl">
                     Happy Valentine's Day, Truffle! ♥
                   </h1>
 
