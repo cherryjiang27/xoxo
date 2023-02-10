@@ -91,12 +91,12 @@ export default function Home() {
                     </h2>
                     <p>
                     Oh sweet Truffle, my love for you is true <br></br>
-                    Your eyes so green, your fur so soft and white and gray
-                    The way you purr and rub my legs when I come home every day
+                    Your eyes so green, your fur so soft and white and gray <br></br>
+                    The way you purr and rub my legs when I come home every day <br></br>
 
-                    You are my fur baby, and my heart you do sway
+                    You are my fur baby, and my heart you do sway <br></br>
 
-                    On Valentine's Day, I want to tell you what I feel
+                    On Valentine's Day, I want to tell you what I feel <br></br>
                     Your love for me is so real
 
                     Your cuddles, your spirit and your meow
