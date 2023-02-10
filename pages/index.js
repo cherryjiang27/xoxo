@@ -86,15 +86,15 @@ export default function Home() {
                     </div>
                   </div>
                   <div>
-                    <p>
+                    <h2>
                       I love my cat.
-                    </p>
+                    </h2>
                     <p>
-                      Loving you is like a blessing,
-                      My furry friend, sweet Truffle.
+                      Loving you is like a blessing, <br>
+                      My furry friend, sweet Truffle. <br>
 
-Your eyes, so deep and blue,
-Your purr, so gentle and true.
+                      Your eyes, so deep and blue,
+                      Your purr, so gentle and true.
 
 Your whiskers, so soft and strong,
 Your meow, so sweet and long.
