@@ -135,7 +135,7 @@ export default function Home() {
                           </div> */}
 
                           <h2 className="text-xl font-bold tracking-tight text-gray-800 sm:text-2xl">
-                            A Solana NFT with our love's connection.
+                            A Solana stock NFT with our love's connection.
                           </h2>
 
                           <div className="-m-3 flex items-start rounded-lg p-3 transition duration-150 ease-in-out hover:bg-gray-50">
@@ -147,7 +147,7 @@ export default function Home() {
                             </div>
                             <div className="ml-4">
                               <p className="text-base font-medium text-gray-900">
-                                Take his love.
+                                Take this NFT in exchange for your stock purchase.
                               </p>
                               <p className="mt-1 text-sm text-gray-500 mb-2">
                                 please...
